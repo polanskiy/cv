@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: Roboto, serif;
+    font-size: 16px;
+    color: lightslategray;
+}
+
+.preinfo {
+    margin: 0 0 10px;
+}
+
+section {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+article {
+    padding: 10px 15px 15px;
+}
+
+h2 {
+    margin: 0 0 20px;
+    color: cornflowerblue;
+}
+
+h2 span {
+    font-size: 0.725em;
+}
+
+h3 {
+    margin: 0 0 10px;
+}
+
+.content p {
+    margin: 0 0 6px;
+}
